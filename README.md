@@ -33,12 +33,12 @@ python Simulation.py
 A blank window will popup, to enable display press and hold UP key.
 
 ### Episode No. 0
-![Episode #0](https://myoctocat.com/assets/images/base-octocat.svg)
+![Episode #0](https://github.com/mohd-alhussin/MADRL-for-Taxi-Fleet-Management/blob/main/Episode0_60fps.gif)
 
 
 
 ### Episode No. 100
-![Episode #100](https://myoctocat.com/assets/images/base-octocat.svg)
+![Episode #100](https://github.com/mohd-alhussin/MADRL-for-Taxi-Fleet-Management/blob/main/Episode100_60fps.gif)
 
 
 ## Plots  
@@ -46,7 +46,7 @@ when you exits the pygame display window a plot for the learning curves will pop
 
 
 ### Learning Curves 
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+![]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/mohd-alhussin/MADRL-for-Taxi-Fleet-Management/blob/main/Learning_Curves.png))
 
 
 ## Cite Our Paper
