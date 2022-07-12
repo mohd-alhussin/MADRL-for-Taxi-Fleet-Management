@@ -46,7 +46,7 @@ when you exits the pygame display window a plot for the learning curves will pop
 
 
 ### Learning Curves 
-![]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/mohd-alhussin/MADRL-for-Taxi-Fleet-Management/blob/main/Learning_Curves.png))
+![](https://github.com/mohd-alhussin/MADRL-for-Taxi-Fleet-Management/blob/main/Learning_Curves.png)
 
 
 ## Cite Our Paper
