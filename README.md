@@ -5,24 +5,24 @@ This is the code repository for [A Scalable Multi-agent Reinforcement Learning A
 ## Code Structure 
 1. Simulation.py : containes that code that implements the Taxi simulation environment in the header of the file you can change the simulation options 
 
-	-Training = True #specify the mode of operation True for training and False for inference
-	-disp = False #display option, you can also use UP key to enable the display and Down key for disabling it. 
-	-M = grid_dim #height
-	-N = grid_dim #width
-	-num_taxis = 10 # The number of taxis in the city
-	-max_num_requests = 15 # the peak number of requests
-	-setup = 4 # reward setup selection - details in the paper
-	-batch_size = 24 # batch size for the DQN network
+	- Training = True #specify the mode of operation True for training and False for inference
+	- disp = False #display option, you can also use UP key to enable the display and Down key for disabling it. 
+	- M = grid_dim #height
+	- N = grid_dim #width
+	- num_taxis = 10 # The number of taxis in the city
+	- max_num_requests = 15 # the peak number of requests
+	- setup = 4 # reward setup selection - details in the paper
+	- batch_size = 24 # batch size for the DQN network
 
 2. DQN.py : contains the code for Deep Q learning MODEL. 
 
 
 ## Requirements 
 The code the written in python and  following Libraries are required. 
-	-tensorflow
-	-matplotlib
-	-pygame
-	-gym
+	- tensorflow
+	- matplotlib
+	- pygame
+	- gym
 
 
 ## How to run 
