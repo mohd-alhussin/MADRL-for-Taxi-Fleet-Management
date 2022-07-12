@@ -43,7 +43,7 @@ A blank window will popup, to enable display press and hold UP key.
 
 
 ## Plots  
-when you exits the pygame display window a plot for the learning curves will pop up. 
+when you exit the pygame display window a plot for the learning curves will pop up. 
 
 
 ### Learning Curves 
